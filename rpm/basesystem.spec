@@ -8,6 +8,7 @@ License: Public Domain
 Group: System Environment/Base
 Requires(pre): setup filesystem
 BuildArch: noarch
+Source: %name-%version.tar.bz2
 
 %description
 Basesystem defines the components of a basic %{distroname} system 
